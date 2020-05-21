@@ -720,8 +720,8 @@ ul.portfolio li.active {
 
 .services-section hr {
   border-bottom: 2px solid #24b662;
-  width: 42px;
-  margin-left: 0px;
+  width: 3em;
+  text-align: center;
 }
 
 .services-section .services-detail {
@@ -734,6 +734,7 @@ ul.portfolio li.active {
   top: 0px;
   padding: 60px 40px 60px 40px;
   margin-top: 32px;
+  text-align: center;
 }
 
 .services-section .services-detail:hover {
@@ -743,7 +744,7 @@ ul.portfolio li.active {
 }
 
 .services-section .services-detail .fa {
-  font-size: 42px;
+  font-size: 4em;
 }
 
 
@@ -1464,9 +1465,10 @@ ul.portfolio li.active {
 .blog{
 background-color: #ccc;
 
+-webkit-box-shadow: 2px 11px 21px -2px rgba(0,0,0,0.75);
+-moz-box-shadow: 2px 11px 21px -2px rgba(0,0,0,0.75);
+box-shadow: 2px 11px 21px -2px rgba(0,0,0,0.75);
 
-
-  
   
   
 
